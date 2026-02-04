@@ -22,8 +22,8 @@ I’m a **Computer Engineering student** (3rd year) with a strong focus on **Dee
 
 **Languages**
 * **Python** 
-* **C**
-* **PHP** (Web development)
+* **C, C++, Java**
+* **PHP, JavaScript** (Web development)
 * SQL
 
 **AI & Data Science**
