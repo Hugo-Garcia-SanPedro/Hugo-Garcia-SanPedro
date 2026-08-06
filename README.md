@@ -1,7 +1,7 @@
 # Hi, I'm Hugo 👋
 **AI Engineer in Training | Computer Engineering Student | 📍 Salamanca, Spain**
 
-I work across the full AI lifecycle — from data collection and model training to deployment at scale. I'm driven by combining strong software engineering foundations with modern ML to build systems that actually hold up in production.
+I build ML systems end-to-end — from data to deployment — with a focus on solid engineering that holds up in production.
 
 ---
 
