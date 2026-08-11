@@ -1,31 +1,35 @@
-# Hi, I'm Hugo 👋
-**AI Engineer in Training | Computer Engineering Student | 📍 Salamanca, Spain**
+# Hey, I'm Hugo 👋
 
-I build ML systems end-to-end — from data to deployment — with a focus on solid engineering that holds up in production.
+I'm a **Computer Science student** at the **University of Salamanca** interested in software development, AI, and building things that actually work.
 
----
-
-### 🛠 Tech Stack
-
-**🧠 Machine Learning & Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-
-**📊 Data Engineering & Analysis**
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) 
-
-**⚙️ AI Engineering & MLOps**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-
-**💻 Languages & Core Systems**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+I enjoy working on web applications, backend systems, and experimenting with Python, NLP, and machine learning.
 
 ---
 
-### 🎯 Current Focus
-* 🧠 **Machine Learning** — Neural network design, model training, and predictive modeling across structured and unstructured data.
-* ⚙️ **AI Engineering** — Building and deploying ML pipelines, model serving infrastructure, and LLM-based applications.
-* 📚 **Software Engineering** — Applying clean architecture and design patterns to production ML systems.
+### 🛠️ Currently working with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+*Text version:*  
+`Python` · `PHP` · `JavaScript` · `MySQL` · `Java` · `C` · `Git` · `Linux`
+
+---
+
+### 🚀 Some things I've built
+
+* 🔁 **DevSwap** — A full-stack platform for exchanging hardware.
+* 🔍 **Search Engine** — An information retrieval engine built from scratch using NLP and TF-IDF.
+
+---
+
+### 📫 Get in touch
+
+* 💼 [LinkedIn](https://linkedin.com/in/hugo-garc\%C3\%ADa-san-pedro)
+* ✉️ [Email](mailto:hugo.garcia26@usal.es)
