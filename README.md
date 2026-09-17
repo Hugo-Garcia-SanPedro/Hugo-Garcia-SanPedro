@@ -1,8 +1,6 @@
 # Hey, I'm Hugo 👋
 
-I'm a **Computer Science student** at the **University of Salamanca** interested in software development, AI, and building things that actually work.
-
-I enjoy working on web applications, backend systems, and experimenting with Python, NLP, and machine learning.
+I'm a **Computer Science student** at the **University of Salamanca** interested in software development, AI, and cibersecurity.
 
 ---
 
